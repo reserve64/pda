@@ -1,0 +1,45 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1436525692915">
+  <folder name="css">
+    <file name="site_global.css" crc="3351292"/>
+    <file name="master_a-musters.css" crc="396277506" ref="webdesign:index:applikationen:pdapplication"/>
+    <file name="webdesign.css" crc="372027136" ref="webdesign"/>
+    <file name="index.css" crc="472915139" ref="index"/>
+    <file name="applikationen.css" crc="3894254653" ref="applikationen"/>
+    <file name="pdapplication.css" crc="3957162008" ref="pdapplication"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo.png" crc="3896415213" mt="1436433100000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:webdesign:applikationen:pdapplication"/>
+    <file name="museutils.js" crc="521960461" ref="index:webdesign:applikationen:pdapplication"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:webdesign:applikationen:pdapplication"/>
+    <file name="pie.js" crc="3827607177" ref="webdesign:applikationen"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="applikationen"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3896415213" ref="index:webdesign:applikationen:pdapplication"/>
+    <file name="background.jpg" crc="382502831" ref="index"/>
+    <file name="frame.png" crc="292045495" ref="index"/>
+    <file name="mobile.png" crc="25693500" ref="index"/>
+    <file name="fonts.png" crc="4222643569" ref="index"/>
+    <file name="customizable.png" crc="3947737762" ref="index"/>
+    <file name="u275-grad.png" crc="4139283512" ref="webdesign"/>
+    <file name="u281-grad.png" crc="130244489" ref="webdesign"/>
+    <file name="u325-grad.png" crc="115687839" ref="webdesign"/>
+    <file name="u326-grad.png" crc="2931600" ref="webdesign"/>
+    <file name="banner_wandgemalt_1.png" crc="4229314514" ref="webdesign"/>
+    <file name="plant.png" crc="292569659" ref="applikationen"/>
+    <file name="mobilefrontpic.jpg" crc="37804344" ref="applikationen"/>
+    <file name="about_selffw.jpg" crc="295521418" ref="applikationen"/>
+    <file name="web-applicationfw.jpg" crc="3881280231" ref="pdapplication"/>
+    <file name="bildergaleriefw.jpg" crc="3767124340" ref="pdapplication"/>
+    <file name="flashfw.jpg" crc="225482074" ref="pdapplication"/>
+    <file name="webapp-gallery.jpg" crc="3927020253" ref="pdapplication"/>
+    <file name="mediaserviceslogofw.jpg" crc="293195116" ref="pdapplication"/>
+  </folder>
+  <file name="index.html" crc="90808671" mt="1436524418673" redirect="true"/>
+  <file name="webdesign.html" crc="337816909" mt="1436524418673" redirect="true"/>
+  <file name="applikationen.html" crc="170223123" mt="1436524980360" redirect="true"/>
+  <file name="pdapplication.html" crc="4209997583" mt="1436525673036" redirect="true"/>
+</manifest>

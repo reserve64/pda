@@ -1,0 +1,290 @@
+.version.applikationen /* version checker */
+{
+	color: #0000E8;
+	background-color: #1D9C3D;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	padding-top: 10px;
+	padding-bottom: 71px;
+	width: 0.01px;
+}
+
+#u181
+{
+	z-index: 2;
+	width: 402px;
+	left: -12px;
+}
+
+#u581
+{
+	z-index: 52;
+	height: 190px;
+	border-color: #000000;
+	background: #FFFFFF url("../images/plant.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u581-bw
+{
+	z-index: 52;
+	margin-top: 8px;
+	height: 190px;
+}
+
+#u582
+{
+	z-index: 53;
+	height: 7px;
+	-pie-box-shadow: 1px 1px 3px #7F7F7F;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #19D4DB;
+}
+
+#u582-bw
+{
+	z-index: 53;
+	height: 7px;
+}
+
+#u571-6
+{
+	z-index: 4;
+	min-height: 84px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 36px;
+}
+
+#u571-6-bw
+{
+	z-index: 4;
+	min-height: 84px;
+	margin-top: 31px;
+}
+
+#pu572-4
+{
+	width: 0.01px;
+	margin-left: 25px;
+}
+
+#u572-4
+{
+	z-index: 10;
+	width: 330px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	line-height: 20px;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u573-4
+{
+	z-index: 14;
+	width: 197px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #19D4DB;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 166px;
+	left: 32px;
+}
+
+#u574-9
+{
+	z-index: 18;
+	width: 297px;
+	min-height: 129px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 207px;
+	left: 20px;
+}
+
+#u574-3
+{
+	font-size: 14px;
+	line-height: 21px;
+	font-family: Courier New, Courier, monospace;
+}
+
+#u574
+{
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+}
+
+#u574-4
+{
+	font-family: Courier New, Courier, monospace;
+}
+
+#u574-7
+{
+	color: #19D4DB;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u577
+{
+	z-index: 48;
+	width: 310px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 7px;
+}
+
+#u577_img
+{
+	padding-top: 40px;
+	padding-right: 1px;
+	padding-bottom: 79px;
+}
+
+#u579
+{
+	z-index: 50;
+	width: 310px;
+	background-color: transparent;
+	margin-left: 32px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u579_img
+{
+	padding-bottom: 1px;
+}
+
+#u576-4
+{
+	z-index: 44;
+	width: 197px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #19D4DB;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+	margin-left: 57px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u575-17
+{
+	z-index: 27;
+	width: 282px;
+	min-height: 158px;
+	background-color: transparent;
+	margin-left: 45px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u575-10
+{
+	font-size: 14px;
+	line-height: 21px;
+	color: #626262;
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+}
+
+#u575-3
+{
+	font-weight: 700;
+}
+
+#u575-2,#u575-5
+{
+	font-weight: 400;
+}
+
+#u575-15
+{
+	color: #19D4DB;
+	font-family: Courier New, Courier, monospace;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u575-12
+{
+	line-height: 18px;
+}
+
+#u574-5,#u575-13
+{
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	line-height: 21px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
